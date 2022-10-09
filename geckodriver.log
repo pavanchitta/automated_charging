@@ -1,0 +1,706 @@
+1651988376523	geckodriver	INFO	Listening on 127.0.0.1:63698
+1651988377411	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cv/xqmn6z1x6l39r_575wkj9b780000gn/T/rust_mozprofilel174GC"
+2022-05-07 22:39:44.005 firefox-bin[59087:15384599] Warning: Expected min height of view: (<NSButton: 0x13a2ed400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 22:39:44.006 firefox-bin[59087:15384599] Warning: Expected min height of view: (<NSButton: 0x13a2f7400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 22:39:44.007 firefox-bin[59087:15384599] Warning: Expected min height of view: (<NSButton: 0x13a2f9c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 22:39:44.008 firefox-bin[59087:15384599] Warning: Expected min height of view: (<NSButton: 0x13a2fb400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 22:39:44.008 firefox-bin[59087:15384599] Warning: Expected min height of view: (<NSButton: 0x13a2f6800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 22:39:44.009 firefox-bin[59087:15384599] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x13a2f8c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 22:39:44.009 firefox-bin[59087:15384599] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x13abc4c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1651988385751	Marionette	INFO	Listening on port 63706
+1651988385820	Marionette	WARN	TLS certificate errors will be ignored for this session
+1651988386033	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1651988517951	geckodriver	INFO	Listening on 127.0.0.1:64384
+1651988518958	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cv/xqmn6z1x6l39r_575wkj9b780000gn/T/rust_mozprofileCjcd1g"
+2022-05-07 22:42:01.245 firefox-bin[59312:15388711] Warning: Expected min height of view: (<NSButton: 0x1345dc400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 22:42:01.246 firefox-bin[59312:15388711] Warning: Expected min height of view: (<NSButton: 0x1100ab400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 22:42:01.247 firefox-bin[59312:15388711] Warning: Expected min height of view: (<NSButton: 0x1345e6400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 22:42:01.247 firefox-bin[59312:15388711] Warning: Expected min height of view: (<NSButton: 0x1345e7c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 22:42:01.248 firefox-bin[59312:15388711] Warning: Expected min height of view: (<NSButton: 0x134a0d000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 22:42:01.248 firefox-bin[59312:15388711] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x1353d5c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 22:42:01.249 firefox-bin[59312:15388711] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x1353ddc00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1651988522585	Marionette	INFO	Listening on port 64395
+1651988522673	Marionette	WARN	TLS certificate errors will be ignored for this session
+1651988522928	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1651988554566	geckodriver	INFO	Listening on 127.0.0.1:64694
+1651988554579	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cv/xqmn6z1x6l39r_575wkj9b780000gn/T/rust_mozprofileEJrZKM"
+2022-05-07 22:42:36.608 firefox-bin[59384:15390099] Warning: Expected min height of view: (<NSButton: 0x13b9cbc00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 22:42:36.609 firefox-bin[59384:15390099] Warning: Expected min height of view: (<NSButton: 0x13b9c7c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 22:42:36.609 firefox-bin[59384:15390099] Warning: Expected min height of view: (<NSButton: 0x1154ad400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 22:42:36.610 firefox-bin[59384:15390099] Warning: Expected min height of view: (<NSButton: 0x13b9c8000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 22:42:36.611 firefox-bin[59384:15390099] Warning: Expected min height of view: (<NSButton: 0x13b9c9000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 22:42:36.611 firefox-bin[59384:15390099] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x13b9c9800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 22:42:36.612 firefox-bin[59384:15390099] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x13ba24400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1651988558166	Marionette	INFO	Listening on port 64699
+1651988558208	Marionette	WARN	TLS certificate errors will be ignored for this session
+1651988558497	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1651988591228	geckodriver	INFO	Listening on 127.0.0.1:65029
+1651988592259	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cv/xqmn6z1x6l39r_575wkj9b780000gn/T/rust_mozprofileflQM7b"
+2022-05-07 22:43:14.285 firefox-bin[59477:15392129] Warning: Expected min height of view: (<NSButton: 0x13b45e000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 22:43:14.286 firefox-bin[59477:15392129] Warning: Expected min height of view: (<NSButton: 0x13b469400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 22:43:14.286 firefox-bin[59477:15392129] Warning: Expected min height of view: (<NSButton: 0x13b464c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 22:43:14.287 firefox-bin[59477:15392129] Warning: Expected min height of view: (<NSButton: 0x13b67fc00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 22:43:14.288 firefox-bin[59477:15392129] Warning: Expected min height of view: (<NSButton: 0x13ba20c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 22:43:14.289 firefox-bin[59477:15392129] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x13bd1dc00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 22:43:14.289 firefox-bin[59477:15392129] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x13c0ba400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1651988596125	Marionette	INFO	Listening on port 65040
+1651988596212	Marionette	WARN	TLS certificate errors will be ignored for this session
+1651988596409	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1651988659321	geckodriver	INFO	Listening on 127.0.0.1:65493
+1651988660355	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cv/xqmn6z1x6l39r_575wkj9b780000gn/T/rust_mozprofileBHBO5l"
+2022-05-07 22:44:23.044 firefox-bin[59606:15395213] Warning: Expected min height of view: (<NSButton: 0x13dfbe800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 22:44:23.046 firefox-bin[59606:15395213] Warning: Expected min height of view: (<NSButton: 0x13dfc4400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 22:44:23.047 firefox-bin[59606:15395213] Warning: Expected min height of view: (<NSButton: 0x13dfc3c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 22:44:23.048 firefox-bin[59606:15395213] Warning: Expected min height of view: (<NSButton: 0x13dfc0c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 22:44:23.049 firefox-bin[59606:15395213] Warning: Expected min height of view: (<NSButton: 0x13dfc4000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 22:44:23.050 firefox-bin[59606:15395213] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x13dfc4c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 22:44:23.051 firefox-bin[59606:15395213] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x13eca8c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1651988664779	Marionette	INFO	Listening on port 65504
+1651988664829	Marionette	WARN	TLS certificate errors will be ignored for this session
+1651988665087	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1651988684093	geckodriver	INFO	Listening on 127.0.0.1:49381
+1651988685105	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cv/xqmn6z1x6l39r_575wkj9b780000gn/T/rust_mozprofileBxrJuH"
+2022-05-07 22:44:47.231 firefox-bin[59677:15396862] Warning: Expected min height of view: (<NSButton: 0x13ea70c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 22:44:47.232 firefox-bin[59677:15396862] Warning: Expected min height of view: (<NSButton: 0x13f327400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 22:44:47.233 firefox-bin[59677:15396862] Warning: Expected min height of view: (<NSButton: 0x13e897400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 22:44:47.234 firefox-bin[59677:15396862] Warning: Expected min height of view: (<NSButton: 0x13f321c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 22:44:47.235 firefox-bin[59677:15396862] Warning: Expected min height of view: (<NSButton: 0x13f320800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 22:44:47.236 firefox-bin[59677:15396862] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x13f323800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 22:44:47.237 firefox-bin[59677:15396862] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x13f65c000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1651988689219	Marionette	INFO	Listening on port 49392
+1651988689304	Marionette	WARN	TLS certificate errors will be ignored for this session
+1651988689600	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+2022-05-07 22:45:19.023 firefox-bin[59087:15384599] Warning: Expected min height of view: (<NSButton: 0x120ed9c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 22:45:19.024 firefox-bin[59087:15384599] Warning: Expected min height of view: (<NSButton: 0x12e677c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 22:45:19.024 firefox-bin[59087:15384599] Warning: Expected min height of view: (<NSButton: 0x12e678400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 22:45:19.025 firefox-bin[59087:15384599] Warning: Expected min height of view: (<NSButton: 0x12e672800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 22:45:19.026 firefox-bin[59087:15384599] Warning: Expected min height of view: (<NSButton: 0x1395d3400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 22:45:19.026 firefox-bin[59087:15384599] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x1395d7000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 22:45:19.027 firefox-bin[59087:15384599] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x1395dbc00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+1651988724097	Marionette	INFO	Stopped listening on port 63706
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1651988726022	Marionette	INFO	Stopped listening on port 64395
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1651988727729	Marionette	INFO	Stopped listening on port 64699
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1651988729313	Marionette	INFO	Stopped listening on port 65040
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1651988731212	Marionette	INFO	Stopped listening on port 65504
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1F0011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+1651988733602	Marionette	INFO	Stopped listening on port 49392
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1651988813039	geckodriver	INFO	Listening on 127.0.0.1:50112
+1651988814058	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cv/xqmn6z1x6l39r_575wkj9b780000gn/T/rust_mozprofiledsQRZ3"
+2022-05-07 22:46:56.373 firefox-bin[59929:15402584] Warning: Expected min height of view: (<NSButton: 0x133243000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 22:46:56.375 firefox-bin[59929:15402584] Warning: Expected min height of view: (<NSButton: 0x133249800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 22:46:56.376 firefox-bin[59929:15402584] Warning: Expected min height of view: (<NSButton: 0x133246000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 22:46:56.377 firefox-bin[59929:15402584] Warning: Expected min height of view: (<NSButton: 0x133244400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 22:46:56.378 firefox-bin[59929:15402584] Warning: Expected min height of view: (<NSButton: 0x133247000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 22:46:56.379 firefox-bin[59929:15402584] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x13324bc00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 22:46:56.380 firefox-bin[59929:15402584] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x13336c400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1651988817957	Marionette	INFO	Listening on port 50123
+1651988818057	Marionette	WARN	TLS certificate errors will be ignored for this session
+1651988818266	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1651988841590	geckodriver	INFO	Listening on 127.0.0.1:50415
+1651988841602	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cv/xqmn6z1x6l39r_575wkj9b780000gn/T/rust_mozprofileHsGtBY"
+2022-05-07 22:47:23.775 firefox-bin[60001:15404303] Warning: Expected min height of view: (<NSButton: 0x12912d400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 22:47:23.776 firefox-bin[60001:15404303] Warning: Expected min height of view: (<NSButton: 0x1343e0800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 22:47:23.776 firefox-bin[60001:15404303] Warning: Expected min height of view: (<NSButton: 0x1343d9c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 22:47:23.777 firefox-bin[60001:15404303] Warning: Expected min height of view: (<NSButton: 0x1343e0c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 22:47:23.778 firefox-bin[60001:15404303] Warning: Expected min height of view: (<NSButton: 0x1343e2c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 22:47:23.778 firefox-bin[60001:15404303] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x1343e1400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 22:47:23.779 firefox-bin[60001:15404303] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x134452400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1651988845317	Marionette	INFO	Listening on port 50420
+1651988845401	Marionette	WARN	TLS certificate errors will be ignored for this session
+1651988845599	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 190: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+1651988918737	geckodriver	INFO	Listening on 127.0.0.1:50920
+1651988918748	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cv/xqmn6z1x6l39r_575wkj9b780000gn/T/rust_mozprofileV7sJ4F"
+2022-05-07 22:48:40.792 firefox-bin[60126:15406568] Warning: Expected min height of view: (<NSButton: 0x1397e4400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 22:48:40.793 firefox-bin[60126:15406568] Warning: Expected min height of view: (<NSButton: 0x1397ea800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 22:48:40.794 firefox-bin[60126:15406568] Warning: Expected min height of view: (<NSButton: 0x1397f0c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 22:48:40.794 firefox-bin[60126:15406568] Warning: Expected min height of view: (<NSButton: 0x1397ed000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 22:48:40.795 firefox-bin[60126:15406568] Warning: Expected min height of view: (<NSButton: 0x1397ec000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 22:48:40.796 firefox-bin[60126:15406568] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x1397ec800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 22:48:40.796 firefox-bin[60126:15406568] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x1398b6400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1651988922721	Marionette	INFO	Listening on port 50925
+1651988922770	Marionette	WARN	TLS certificate errors will be ignored for this session
+1651988922970	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 190: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+1651988995002	geckodriver	INFO	Listening on 127.0.0.1:51440
+1651988996009	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cv/xqmn6z1x6l39r_575wkj9b780000gn/T/rust_mozprofileQ86xBQ"
+2022-05-07 22:49:58.056 firefox-bin[60249:15409009] Warning: Expected min height of view: (<NSButton: 0x13a80f000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 22:49:58.057 firefox-bin[60249:15409009] Warning: Expected min height of view: (<NSButton: 0x13a811c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 22:49:58.057 firefox-bin[60249:15409009] Warning: Expected min height of view: (<NSButton: 0x13a814000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 22:49:58.058 firefox-bin[60249:15409009] Warning: Expected min height of view: (<NSButton: 0x13a812800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 22:49:58.059 firefox-bin[60249:15409009] Warning: Expected min height of view: (<NSButton: 0x13a955c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 22:49:58.059 firefox-bin[60249:15409009] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x13a953400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 22:49:58.060 firefox-bin[60249:15409009] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x13b550800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1651988999443	Marionette	INFO	Listening on port 51451
+1651988999524	Marionette	WARN	TLS certificate errors will be ignored for this session
+1651988999751	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1651989020940	geckodriver	INFO	Listening on 127.0.0.1:51742
+1651989020951	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cv/xqmn6z1x6l39r_575wkj9b780000gn/T/rust_mozprofilenyyCEv"
+2022-05-07 22:50:22.979 firefox-bin[60312:15410119] Warning: Expected min height of view: (<NSButton: 0x13963fc00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 22:50:22.979 firefox-bin[60312:15410119] Warning: Expected min height of view: (<NSButton: 0x13966c800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 22:50:22.980 firefox-bin[60312:15410119] Warning: Expected min height of view: (<NSButton: 0x13966a400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 22:50:22.981 firefox-bin[60312:15410119] Warning: Expected min height of view: (<NSButton: 0x139302c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 22:50:22.981 firefox-bin[60312:15410119] Warning: Expected min height of view: (<NSButton: 0x139667800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 22:50:22.982 firefox-bin[60312:15410119] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x139666400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 22:50:22.982 firefox-bin[60312:15410119] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x13a35a400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1651989024519	Marionette	INFO	Listening on port 51747
+1651989024590	Marionette	WARN	TLS certificate errors will be ignored for this session
+1651989024847	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1651989038727	Marionette	INFO	Stopped listening on port 51747
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1651989040087	Marionette	INFO	Stopped listening on port 51451
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1651989043612	Marionette	INFO	Stopped listening on port 50925
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5C0005,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5C000A,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5C0005,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+1651989045154	Marionette	INFO	Stopped listening on port 50420
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1651989047037	Marionette	INFO	Stopped listening on port 50123
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1651989080728	geckodriver	INFO	Listening on 127.0.0.1:52142
+1651989081747	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cv/xqmn6z1x6l39r_575wkj9b780000gn/T/rust_mozprofile5mj6tr"
+2022-05-07 22:51:23.750 firefox-bin[60442:15412159] Warning: Expected min height of view: (<NSButton: 0x131ed8400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 22:51:23.751 firefox-bin[60442:15412159] Warning: Expected min height of view: (<NSButton: 0x131ed8c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 22:51:23.751 firefox-bin[60442:15412159] Warning: Expected min height of view: (<NSButton: 0x131eda000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 22:51:23.752 firefox-bin[60442:15412159] Warning: Expected min height of view: (<NSButton: 0x131edec00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 22:51:23.752 firefox-bin[60442:15412159] Warning: Expected min height of view: (<NSButton: 0x131ed7800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 22:51:23.753 firefox-bin[60442:15412159] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x131eda800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 22:51:23.754 firefox-bin[60442:15412159] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x131eef800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1651989085004	Marionette	INFO	Listening on port 52154
+1651989085056	Marionette	WARN	TLS certificate errors will be ignored for this session
+1651989085285	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1651989101278	geckodriver	INFO	Listening on 127.0.0.1:52392
+1651989101288	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cv/xqmn6z1x6l39r_575wkj9b780000gn/T/rust_mozprofileFUZ3Gd"
+2022-05-07 22:51:43.456 firefox-bin[60492:15413135] Warning: Expected min height of view: (<NSButton: 0x1334c5800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 22:51:43.457 firefox-bin[60492:15413135] Warning: Expected min height of view: (<NSButton: 0x1334cac00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 22:51:43.457 firefox-bin[60492:15413135] Warning: Expected min height of view: (<NSButton: 0x1334c8400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 22:51:43.458 firefox-bin[60492:15413135] Warning: Expected min height of view: (<NSButton: 0x1334d0c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 22:51:43.458 firefox-bin[60492:15413135] Warning: Expected min height of view: (<NSButton: 0x1334d0800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 22:51:43.459 firefox-bin[60492:15413135] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x1334cf400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 22:51:43.460 firefox-bin[60492:15413135] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x1340c3400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1651989104940	Marionette	INFO	Listening on port 52397
+1651989105020	Marionette	WARN	TLS certificate errors will be ignored for this session
+1651989105241	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1651989271316	geckodriver	INFO	Listening on 127.0.0.1:53311
+1651989272325	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cv/xqmn6z1x6l39r_575wkj9b780000gn/T/rust_mozprofileBt37gJ"
+2022-05-07 22:54:34.463 firefox-bin[60749:15418078] Warning: Expected min height of view: (<NSButton: 0x12cbf0000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 22:54:34.463 firefox-bin[60749:15418078] Warning: Expected min height of view: (<NSButton: 0x1399be000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 22:54:34.464 firefox-bin[60749:15418078] Warning: Expected min height of view: (<NSButton: 0x10fa90800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 22:54:34.464 firefox-bin[60749:15418078] Warning: Expected min height of view: (<NSButton: 0x1399c2c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 22:54:34.465 firefox-bin[60749:15418078] Warning: Expected min height of view: (<NSButton: 0x1399c1000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 22:54:34.465 firefox-bin[60749:15418078] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x1399bf400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 22:54:34.466 firefox-bin[60749:15418078] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x13a6c2000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1651989275847	Marionette	INFO	Listening on port 53322
+1651989275947	Marionette	WARN	TLS certificate errors will be ignored for this session
+1651989276180	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 190: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+1651989349909	geckodriver	INFO	Listening on 127.0.0.1:53842
+1651989350916	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cv/xqmn6z1x6l39r_575wkj9b780000gn/T/rust_mozprofileUqCiap"
+2022-05-07 22:55:58.942 firefox-bin[60880:15420667] Warning: Expected min height of view: (<NSButton: 0x124f3c800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 22:55:58.942 firefox-bin[60880:15420667] Warning: Expected min height of view: (<NSButton: 0x131cc3c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 22:55:58.943 firefox-bin[60880:15420667] Warning: Expected min height of view: (<NSButton: 0x131cc1000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 22:55:58.944 firefox-bin[60880:15420667] Warning: Expected min height of view: (<NSButton: 0x131cbd400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 22:55:58.944 firefox-bin[60880:15420667] Warning: Expected min height of view: (<NSButton: 0x131cbe000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 22:55:58.945 firefox-bin[60880:15420667] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x131cc3000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 22:55:58.945 firefox-bin[60880:15420667] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x1327e5000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1651989360583	Marionette	INFO	Listening on port 53853
+1651989360684	Marionette	WARN	TLS certificate errors will be ignored for this session
+1651989360873	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 190: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+1651989505329	geckodriver	INFO	Listening on 127.0.0.1:54795
+1651989506364	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cv/xqmn6z1x6l39r_575wkj9b780000gn/T/rust_mozprofile1tofiR"
+2022-05-07 22:58:28.596 firefox-bin[61138:15425103] Warning: Expected min height of view: (<NSButton: 0x12cb3a000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 22:58:28.596 firefox-bin[61138:15425103] Warning: Expected min height of view: (<NSButton: 0x137dd9800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 22:58:28.597 firefox-bin[61138:15425103] Warning: Expected min height of view: (<NSButton: 0x137ddd000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 22:58:28.598 firefox-bin[61138:15425103] Warning: Expected min height of view: (<NSButton: 0x137dd7c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 22:58:28.598 firefox-bin[61138:15425103] Warning: Expected min height of view: (<NSButton: 0x137dd8000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 22:58:28.599 firefox-bin[61138:15425103] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x137de3c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 22:58:28.599 firefox-bin[61138:15425103] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x1385ef400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1651989510058	Marionette	INFO	Listening on port 54806
+1651989510132	Marionette	WARN	TLS certificate errors will be ignored for this session
+1651989510357	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 190: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1651989560955	geckodriver	INFO	Listening on 127.0.0.1:55219
+1651989561972	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cv/xqmn6z1x6l39r_575wkj9b780000gn/T/rust_mozprofileBU6vy3"
+2022-05-07 22:59:24.199 firefox-bin[61272:15427006] Warning: Expected min height of view: (<NSButton: 0x1311dfc00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 22:59:24.200 firefox-bin[61272:15427006] Warning: Expected min height of view: (<NSButton: 0x13c3e8400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 22:59:24.201 firefox-bin[61272:15427006] Warning: Expected min height of view: (<NSButton: 0x13c3e9000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 22:59:24.202 firefox-bin[61272:15427006] Warning: Expected min height of view: (<NSButton: 0x13c448400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 22:59:24.202 firefox-bin[61272:15427006] Warning: Expected min height of view: (<NSButton: 0x13c447c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 22:59:24.203 firefox-bin[61272:15427006] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x13c443800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 22:59:24.204 firefox-bin[61272:15427006] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x13d059c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1651989565875	Marionette	INFO	Listening on port 55230
+1651989565907	Marionette	WARN	TLS certificate errors will be ignored for this session
+1651989566129	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 190: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+1651989587027	Marionette	INFO	Stopped listening on port 55230
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1651989590213	Marionette	INFO	Stopped listening on port 53853
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1651989591639	Marionette	INFO	Stopped listening on port 53322
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1651989626814	geckodriver	INFO	Listening on 127.0.0.1:55690
+1651989627830	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cv/xqmn6z1x6l39r_575wkj9b780000gn/T/rust_mozprofile6G2CIG"
+2022-05-07 23:00:29.727 firefox-bin[61403:15429142] Warning: Expected min height of view: (<NSButton: 0x130e2b800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 23:00:29.728 firefox-bin[61403:15429142] Warning: Expected min height of view: (<NSButton: 0x130e2a400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 23:00:29.728 firefox-bin[61403:15429142] Warning: Expected min height of view: (<NSButton: 0x130e2c400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 23:00:29.729 firefox-bin[61403:15429142] Warning: Expected min height of view: (<NSButton: 0x130e2d000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 23:00:29.730 firefox-bin[61403:15429142] Warning: Expected min height of view: (<NSButton: 0x130e2d400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 23:00:29.730 firefox-bin[61403:15429142] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x130f53000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 23:00:29.731 firefox-bin[61403:15429142] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x131c5e400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1651989631059	Marionette	INFO	Listening on port 55701
+1651989631195	Marionette	WARN	TLS certificate errors will be ignored for this session
+1651989631423	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1651989657406	geckodriver	INFO	Listening on 127.0.0.1:55998
+1651989657420	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cv/xqmn6z1x6l39r_575wkj9b780000gn/T/rust_mozprofileGwh7cm"
+2022-05-07 23:00:59.503 firefox-bin[61471:15430410] Warning: Expected min height of view: (<NSButton: 0x133157800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 23:00:59.504 firefox-bin[61471:15430410] Warning: Expected min height of view: (<NSButton: 0x13315c800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 23:00:59.505 firefox-bin[61471:15430410] Warning: Expected min height of view: (<NSButton: 0x13315d000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 23:00:59.505 firefox-bin[61471:15430410] Warning: Expected min height of view: (<NSButton: 0x133158000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 23:00:59.506 firefox-bin[61471:15430410] Warning: Expected min height of view: (<NSButton: 0x133160800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 23:00:59.506 firefox-bin[61471:15430410] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x133162400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 23:00:59.507 firefox-bin[61471:15430410] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x1331c7c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1651989661039	Marionette	INFO	Listening on port 56003
+1651989661126	Marionette	WARN	TLS certificate errors will be ignored for this session
+1651989661338	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 190: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+1651989719876	geckodriver	INFO	Listening on 127.0.0.1:56488
+1651989719890	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cv/xqmn6z1x6l39r_575wkj9b780000gn/T/rust_mozprofile527lNV"
+2022-05-07 23:02:01.884 firefox-bin[61580:15432337] Warning: Expected min height of view: (<NSButton: 0x139dba800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 23:02:01.884 firefox-bin[61580:15432337] Warning: Expected min height of view: (<NSButton: 0x139e57000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 23:02:01.885 firefox-bin[61580:15432337] Warning: Expected min height of view: (<NSButton: 0x139e57400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 23:02:01.885 firefox-bin[61580:15432337] Warning: Expected min height of view: (<NSButton: 0x139e52c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 23:02:01.886 firefox-bin[61580:15432337] Warning: Expected min height of view: (<NSButton: 0x139e57c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 23:02:01.887 firefox-bin[61580:15432337] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x139e53c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 23:02:01.887 firefox-bin[61580:15432337] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x13ab5b400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1651989723540	Marionette	INFO	Listening on port 56493
+1651989723846	Marionette	WARN	TLS certificate errors will be ignored for this session
+1651989724084	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 190: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+1651989770579	Marionette	INFO	Stopped listening on port 56493
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1F0011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1F0011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+1651989771899	Marionette	INFO	Stopped listening on port 56003
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1651989773602	Marionette	INFO	Stopped listening on port 55701
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1651989775550	Marionette	INFO	Stopped listening on port 52397
+1651989777593	Marionette	INFO	Stopped listening on port 52154
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1651989779474	geckodriver	INFO	Listening on 127.0.0.1:56993
+1651989780481	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cv/xqmn6z1x6l39r_575wkj9b780000gn/T/rust_mozprofileXIwMym"
+2022-05-07 23:03:02.519 firefox-bin[61700:15434289] Warning: Expected min height of view: (<NSButton: 0x137ee7400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 23:03:02.520 firefox-bin[61700:15434289] Warning: Expected min height of view: (<NSButton: 0x137ee0c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 23:03:02.521 firefox-bin[61700:15434289] Warning: Expected min height of view: (<NSButton: 0x137ee1000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 23:03:02.522 firefox-bin[61700:15434289] Warning: Expected min height of view: (<NSButton: 0x137ee2000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 23:03:02.523 firefox-bin[61700:15434289] Warning: Expected min height of view: (<NSButton: 0x137ee1400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 23:03:02.523 firefox-bin[61700:15434289] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x137eeec00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 23:03:02.524 firefox-bin[61700:15434289] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x137f5f400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1651989783852	Marionette	INFO	Listening on port 57005
+1651989783965	Marionette	WARN	TLS certificate errors will be ignored for this session
+1651989784151	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 190: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+1651989795730	Marionette	INFO	Stopped listening on port 57005
+JavaScript error: https://m.pge.com/resources/js/main.js?ver=2.3.2837, line 1: Error: Script error for: en-US
+http://requirejs.org/docs/errors.html#scripterror
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1651990005452	geckodriver	INFO	Listening on 127.0.0.1:58206
+1651990006468	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cv/xqmn6z1x6l39r_575wkj9b780000gn/T/rust_mozprofileUyQxQN"
+2022-05-07 23:06:48.523 firefox-bin[62010:15439892] Warning: Expected min height of view: (<NSButton: 0x135ed2000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 23:06:48.523 firefox-bin[62010:15439892] Warning: Expected min height of view: (<NSButton: 0x135ed0000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 23:06:48.524 firefox-bin[62010:15439892] Warning: Expected min height of view: (<NSButton: 0x135ed0400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 23:06:48.525 firefox-bin[62010:15439892] Warning: Expected min height of view: (<NSButton: 0x135ece800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 23:06:48.525 firefox-bin[62010:15439892] Warning: Expected min height of view: (<NSButton: 0x135ed4800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 23:06:48.526 firefox-bin[62010:15439892] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x135ed5400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 23:06:48.527 firefox-bin[62010:15439892] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x135f1d000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1651990009869	Marionette	INFO	Listening on port 58218
+1651990009968	Marionette	WARN	TLS certificate errors will be ignored for this session
+1651990010397	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 190: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+1651990133636	geckodriver	INFO	Listening on 127.0.0.1:59001
+1651990134645	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cv/xqmn6z1x6l39r_575wkj9b780000gn/T/rust_mozprofilewu2IL7"
+2022-05-07 23:08:56.807 firefox-bin[62234:15443499] Warning: Expected min height of view: (<NSButton: 0x131c6ec00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 23:08:56.807 firefox-bin[62234:15443499] Warning: Expected min height of view: (<NSButton: 0x1329d3800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 23:08:56.808 firefox-bin[62234:15443499] Warning: Expected min height of view: (<NSButton: 0x1329d7c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 23:08:56.809 firefox-bin[62234:15443499] Warning: Expected min height of view: (<NSButton: 0x1329d8000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 23:08:56.809 firefox-bin[62234:15443499] Warning: Expected min height of view: (<NSButton: 0x1329d2400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 23:08:56.810 firefox-bin[62234:15443499] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x1329d2c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 23:08:56.810 firefox-bin[62234:15443499] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x1336bfc00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1651990138198	Marionette	INFO	Listening on port 59012
+1651990138249	Marionette	WARN	TLS certificate errors will be ignored for this session
+1651990138500	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 190: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+1651990212591	geckodriver	INFO	Listening on 127.0.0.1:59574
+1651990213599	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cv/xqmn6z1x6l39r_575wkj9b780000gn/T/rust_mozprofileIQws4p"
+2022-05-07 23:10:15.571 firefox-bin[62371:15445725] Warning: Expected min height of view: (<NSButton: 0x13c6c6400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 23:10:15.572 firefox-bin[62371:15445725] Warning: Expected min height of view: (<NSButton: 0x13c6ccc00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 23:10:15.572 firefox-bin[62371:15445725] Warning: Expected min height of view: (<NSButton: 0x13c6dd800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 23:10:15.573 firefox-bin[62371:15445725] Warning: Expected min height of view: (<NSButton: 0x13c6dd000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 23:10:15.574 firefox-bin[62371:15445725] Warning: Expected min height of view: (<NSButton: 0x13c6dc400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 23:10:15.574 firefox-bin[62371:15445725] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x13c6ddc00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 23:10:15.575 firefox-bin[62371:15445725] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x13c6e4800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1651990217141	Marionette	INFO	Listening on port 59585
+1651990217221	Marionette	WARN	TLS certificate errors will be ignored for this session
+1651990217409	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 190: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+1651990459174	geckodriver	INFO	Listening on 127.0.0.1:60843
+1651990460178	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cv/xqmn6z1x6l39r_575wkj9b780000gn/T/rust_mozprofileW3yGae"
+2022-05-07 23:14:22.613 firefox-bin[62724:15453433] Warning: Expected min height of view: (<NSButton: 0x135cf3000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 23:14:22.614 firefox-bin[62724:15453433] Warning: Expected min height of view: (<NSButton: 0x135cef800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 23:14:22.615 firefox-bin[62724:15453433] Warning: Expected min height of view: (<NSButton: 0x135cf0c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 23:14:22.615 firefox-bin[62724:15453433] Warning: Expected min height of view: (<NSButton: 0x135cf0000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 23:14:22.616 firefox-bin[62724:15453433] Warning: Expected min height of view: (<NSButton: 0x135cf0800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 23:14:22.616 firefox-bin[62724:15453433] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x135cf8c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 23:14:22.617 firefox-bin[62724:15453433] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x135dcd000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1651990464147	Marionette	INFO	Listening on port 60854
+1651990464238	Marionette	WARN	TLS certificate errors will be ignored for this session
+1651990464586	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 190: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1651990485729	geckodriver	INFO	Listening on 127.0.0.1:61127
+1651990486742	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cv/xqmn6z1x6l39r_575wkj9b780000gn/T/rust_mozprofiledRGSDN"
+2022-05-07 23:14:49.043 firefox-bin[62804:15455873] Warning: Expected min height of view: (<NSButton: 0x127a11800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 23:14:49.047 firefox-bin[62804:15455873] Warning: Expected min height of view: (<NSButton: 0x132c30c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 23:14:49.057 firefox-bin[62804:15455873] Warning: Expected min height of view: (<NSButton: 0x132cd7800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 23:14:49.058 firefox-bin[62804:15455873] Warning: Expected min height of view: (<NSButton: 0x132cd7c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 23:14:49.059 firefox-bin[62804:15455873] Warning: Expected min height of view: (<NSButton: 0x132cd6c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 23:14:49.063 firefox-bin[62804:15455873] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x132cd5000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 23:14:49.064 firefox-bin[62804:15455873] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x132cdc400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1651990490900	Marionette	INFO	Listening on port 61138
+1651990491009	Marionette	WARN	TLS certificate errors will be ignored for this session
+1651990491258	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 190: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+1651990577270	geckodriver	INFO	Listening on 127.0.0.1:61802
+1651990578284	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cv/xqmn6z1x6l39r_575wkj9b780000gn/T/rust_mozprofile3Pylwh"
+2022-05-07 23:16:20.391 firefox-bin[62983:15459653] Warning: Expected min height of view: (<NSButton: 0x12d232800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 23:16:20.392 firefox-bin[62983:15459653] Warning: Expected min height of view: (<NSButton: 0x13856a400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 23:16:20.393 firefox-bin[62983:15459653] Warning: Expected min height of view: (<NSButton: 0x138567c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 23:16:20.393 firefox-bin[62983:15459653] Warning: Expected min height of view: (<NSButton: 0x138566c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 23:16:20.394 firefox-bin[62983:15459653] Warning: Expected min height of view: (<NSButton: 0x13877e400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 23:16:20.395 firefox-bin[62983:15459653] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x138f29c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 23:16:20.395 firefox-bin[62983:15459653] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x139251800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1651990582143	Marionette	INFO	Listening on port 61813
+1651990582247	Marionette	WARN	TLS certificate errors will be ignored for this session
+1651990582536	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 190: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+1651990613639	geckodriver	INFO	Listening on 127.0.0.1:62183
+1651990614650	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cv/xqmn6z1x6l39r_575wkj9b780000gn/T/rust_mozprofilesEpJWR"
+2022-05-07 23:16:56.944 firefox-bin[63072:15461088] Warning: Expected min height of view: (<NSButton: 0x1318dd400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 23:16:56.945 firefox-bin[63072:15461088] Warning: Expected min height of view: (<NSButton: 0x1318e0800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 23:16:56.946 firefox-bin[63072:15461088] Warning: Expected min height of view: (<NSButton: 0x1318e0c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 23:16:56.946 firefox-bin[63072:15461088] Warning: Expected min height of view: (<NSButton: 0x1318de800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 23:16:56.947 firefox-bin[63072:15461088] Warning: Expected min height of view: (<NSButton: 0x1318e1800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 23:16:56.948 firefox-bin[63072:15461088] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x1318e6800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 23:16:56.948 firefox-bin[63072:15461088] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x131964800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1651990618736	Marionette	INFO	Listening on port 62194
+1651990618812	Marionette	WARN	TLS certificate errors will be ignored for this session
+1651990619117	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 190: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+1651990664834	geckodriver	INFO	Listening on 127.0.0.1:62650
+1651990665855	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cv/xqmn6z1x6l39r_575wkj9b780000gn/T/rust_mozprofilefOweci"
+2022-05-07 23:17:54.080 firefox-bin[63166:15462911] Warning: Expected min height of view: (<NSButton: 0x12fe0ec00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 23:17:54.081 firefox-bin[63166:15462911] Warning: Expected min height of view: (<NSButton: 0x12fe10400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 23:17:54.081 firefox-bin[63166:15462911] Warning: Expected min height of view: (<NSButton: 0x12fe15000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 23:17:54.082 firefox-bin[63166:15462911] Warning: Expected min height of view: (<NSButton: 0x12fe11c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 23:17:54.083 firefox-bin[63166:15462911] Warning: Expected min height of view: (<NSButton: 0x12fe12000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 23:17:54.084 firefox-bin[63166:15462911] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x12fe14400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 23:17:54.085 firefox-bin[63166:15462911] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x130a74400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1651990676118	Marionette	INFO	Listening on port 62661
+1651990676223	Marionette	WARN	TLS certificate errors will be ignored for this session
+1651990676531	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 190: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+1651990875803	geckodriver	INFO	Listening on 127.0.0.1:63904
+1651990876809	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cv/xqmn6z1x6l39r_575wkj9b780000gn/T/rust_mozprofileFiU4mE"
+2022-05-07 23:21:19.816 firefox-bin[63529:15468656] Warning: Expected min height of view: (<NSButton: 0x131a66400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 23:21:19.818 firefox-bin[63529:15468656] Warning: Expected min height of view: (<NSButton: 0x131a60400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 23:21:19.819 firefox-bin[63529:15468656] Warning: Expected min height of view: (<NSButton: 0x131a62000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 23:21:19.820 firefox-bin[63529:15468656] Warning: Expected min height of view: (<NSButton: 0x131a62400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 23:21:19.821 firefox-bin[63529:15468656] Warning: Expected min height of view: (<NSButton: 0x131a68c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 23:21:19.822 firefox-bin[63529:15468656] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x131a6e000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 23:21:19.823 firefox-bin[63529:15468656] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x13275e000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1651990882221	Marionette	INFO	Listening on port 63916
+1651990882347	Marionette	WARN	TLS certificate errors will be ignored for this session
+1651990882557	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 190: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+1651990931965	geckodriver	INFO	Listening on 127.0.0.1:64422
+1651990932981	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cv/xqmn6z1x6l39r_575wkj9b780000gn/T/rust_mozprofiledWbS22"
+2022-05-07 23:22:15.906 firefox-bin[63644:15472306] Warning: Expected min height of view: (<NSButton: 0x13177d000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 23:22:15.906 firefox-bin[63644:15472306] Warning: Expected min height of view: (<NSButton: 0x131961c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 23:22:15.907 firefox-bin[63644:15472306] Warning: Expected min height of view: (<NSButton: 0x131962c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 23:22:15.908 firefox-bin[63644:15472306] Warning: Expected min height of view: (<NSButton: 0x13195f400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 23:22:15.908 firefox-bin[63644:15472306] Warning: Expected min height of view: (<NSButton: 0x131960000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 23:22:15.909 firefox-bin[63644:15472306] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x131966400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 23:22:15.910 firefox-bin[63644:15472306] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x132656800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1651990938150	Marionette	INFO	Listening on port 64433
+1651990938318	Marionette	WARN	TLS certificate errors will be ignored for this session
+1651990938881	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 190: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+console.error: "Error while calling actor 'domnode's method 'getImageData'" ""
+console.error: "imageToImageData@resource://devtools/server/actors/inspector/utils.js:327:9\n"
+1651991015658	geckodriver	INFO	Listening on 127.0.0.1:64993
+1651991016681	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cv/xqmn6z1x6l39r_575wkj9b780000gn/T/rust_mozprofileqA1HHy"
+2022-05-07 23:23:39.697 firefox-bin[63809:15476318] Warning: Expected min height of view: (<NSButton: 0x127567800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 23:23:39.698 firefox-bin[63809:15476318] Warning: Expected min height of view: (<NSButton: 0x1328ec400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 23:23:39.698 firefox-bin[63809:15476318] Warning: Expected min height of view: (<NSButton: 0x1328e8000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 23:23:39.699 firefox-bin[63809:15476318] Warning: Expected min height of view: (<NSButton: 0x1328ea400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 23:23:39.700 firefox-bin[63809:15476318] Warning: Expected min height of view: (<NSButton: 0x1328e5c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 23:23:39.700 firefox-bin[63809:15476318] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x1328ea800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 23:23:39.701 firefox-bin[63809:15476318] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x13320bc00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1651991022551	Marionette	INFO	Listening on port 65004
+1651991022636	Marionette	WARN	TLS certificate errors will be ignored for this session
+1651991022968	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 190: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript error: https://m.pge.com/resources/js/main.js?ver=2.3.2837, line 1: Error: Script error for: https://tags.tiqcdn.com/utag/pge/mobile/prod/utag.sync.js
+http://requirejs.org/docs/errors.html#scripterror
+1651991076260	Marionette	INFO	Stopped listening on port 58218
+1651991077993	Marionette	INFO	Stopped listening on port 59585
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1651991139893	geckodriver	INFO	Listening on 127.0.0.1:49398
+1651991140906	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cv/xqmn6z1x6l39r_575wkj9b780000gn/T/rust_mozprofilefhPSSM"
+2022-05-07 23:25:43.184 firefox-bin[64016:15480611] Warning: Expected min height of view: (<NSButton: 0x12f8da800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 23:25:43.185 firefox-bin[64016:15480611] Warning: Expected min height of view: (<NSButton: 0x12f8d9c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 23:25:43.185 firefox-bin[64016:15480611] Warning: Expected min height of view: (<NSButton: 0x12f8d9000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 23:25:43.186 firefox-bin[64016:15480611] Warning: Expected min height of view: (<NSButton: 0x12f8da400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 23:25:43.187 firefox-bin[64016:15480611] Warning: Expected min height of view: (<NSButton: 0x12f8db400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 23:25:43.187 firefox-bin[64016:15480611] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x12f8e0400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-07 23:25:43.188 firefox-bin[64016:15480611] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x12f95ac00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1651991144994	Marionette	INFO	Listening on port 49409
+1651991145085	Marionette	WARN	TLS certificate errors will be ignored for this session
+1651991145317	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 190: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+1652055044860	Marionette	INFO	Stopped listening on port 59012
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1652055046267	Marionette	INFO	Stopped listening on port 61813
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1652055049762	Marionette	INFO	Stopped listening on port 61138
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1652055051828	Marionette	INFO	Stopped listening on port 62194
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1652055053236	Marionette	INFO	Stopped listening on port 62661
+1652055054244	Marionette	INFO	Stopped listening on port 63916
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1652055055311	Marionette	INFO	Stopped listening on port 64433
+1652055056801	Marionette	INFO	Stopped listening on port 65004
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1652055058538	Marionette	INFO	Stopped listening on port 49409
+1664769757910	geckodriver	INFO	Listening on 127.0.0.1:62147
+1664769758963	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cv/xqmn6z1x6l39r_575wkj9b780000gn/T/rust_mozprofile7wOm9Z"
+2022-10-02 21:02:48.481 firefox-bin[27418:16523683] Warning: Expected min height of view: (<NSButton: 0x133bbdc00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-10-02 21:02:48.481 firefox-bin[27418:16523683] Warning: Expected min height of view: (<NSButton: 0x133bbf800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-10-02 21:02:48.482 firefox-bin[27418:16523683] Warning: Expected min height of view: (<NSButton: 0x133bbe800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-10-02 21:02:48.483 firefox-bin[27418:16523683] Warning: Expected min height of view: (<NSButton: 0x133bc0800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-10-02 21:02:48.484 firefox-bin[27418:16523683] Warning: Expected min height of view: (<NSButton: 0x133bbec00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-10-02 21:02:48.485 firefox-bin[27418:16523683] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x133bc0400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-10-02 21:02:48.485 firefox-bin[27418:16523683] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x133bda000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1664769771287	Marionette	INFO	Listening on port 62158
+1664769771320	Marionette	WARN	TLS certificate errors will be ignored for this session
+1664769771529	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+JavaScript error: , line 0: uncaught exception: null
+console.error: services.settings: 
+  Message: AbortError: IndexedDB: security-state/cert-revocations getLastModified() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.
+console.error: services.settings: 
+  Message: AbortError: IndexedDB: main/normandy-recipes-capabilities getLastModified() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
