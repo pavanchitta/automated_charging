@@ -9,7 +9,7 @@ from transaction import OfflineCSVTransactionExtractor
 class OfflineCSVTransactionExtractorTest(unittest.TestCase):
 
     def setUp(self):
-        self.test_csv_path = 'test_payments.csv'
+        self.test_csv_path = 'data/test_payments.csv'
         # Check initialization doesn't fail
         self.extractor = OfflineCSVTransactionExtractor(self.test_csv_path)
 
