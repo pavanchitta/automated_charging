@@ -3,12 +3,13 @@
 from absl import flags
 from absl import app
 import datetime
+import os
 
 from typing import Optional
 
 import venmo_client
 import transaction as transaction_extract
-import secrets
+import venmo_access
 import transaction_adapter
 
 FLAGS = flags.FLAGS
@@ -38,7 +39,13 @@ def _get_date_bounds(start_date: Optional[datetime.date], end_date: Optional[dat
 
 def main(_):
     # Initialize venmo payment client.
-    venmo = venmo_client.VenmoClient(secrets.ACCESS_TOKEN)
+    access_token = os.environ.get(venmo_access.VENMO_ACCESS_TOKEN_KEY)
+    if not access_token:
+        print("Could not find access token")
+        username = input("Usename: ")
+        password = input("Password: ")
+        access_token = venmo_access.get_access_token(username, password)
+    venmo = venmo_client.VenmoClient(access_token)
     user_ids = {}
     for username in FLAGS.chargee_usernames:
         user_ids[venmo.get_user_id_by_username(username)] = username

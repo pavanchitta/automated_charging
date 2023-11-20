@@ -10,7 +10,7 @@ import secrets
 
 class VenmoClient:
     def __init__(self, access_token):
-        self.client = venmo_api.Client(access_token=secrets.ACCESS_TOKEN)
+        self.client = venmo_api.Client(access_token=access_token)
 
     def get_user_id_by_username(self, username):
         user = self.client.user.get_user_by_username(username=username)
